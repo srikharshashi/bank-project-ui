@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://srikharshashi.github.io/bank-project-ui",
+  "homepage": "https://srikharshashi.github.io/bank-project-ui/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
